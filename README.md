@@ -1,1 +1,1 @@
-# BoltNetwork1
+This is a sample project from codecademy.  As of now, this repo is just for reference sake and is not fully functional yet.
